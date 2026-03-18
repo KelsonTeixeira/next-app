@@ -21,22 +21,16 @@
       "id": 5
     },
     {
-      "name": "Kelson",
-      "email": "kelsonandre97@gmail.com",
-      "phone": "61984442907",
-      "id": 6
-    },
-    {
-      "name": "Kelson André Venâncio Lopes Teixeira",
-      "email": "kelsonandre97@gmail.com",
-      "phone": "61984442907",
+      "name": "Kelson Teixeira",
+      "email": "kelson@email.com",
+      "phone": "629833332222",
       "userId": 1,
       "id": 7
     },
     {
-      "name": "Virgínia Lopes Teixeira",
-      "email": "oslopesteixeira@gmail.com",
-      "phone": "61984442907",
+      "name": "Virgínia Teixeira",
+      "email": "vivi@email.com",
+      "phone": "629833332222",
       "userId": 1,
       "id": 8
     }
